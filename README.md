@@ -73,7 +73,7 @@ rostopic pub -r 5 </name_of_topic> std_msgs/String "data: '<new message>'" #cont
 
 ## Note on nodes
 
-If you are adding scripts to the nodes you need to create a new directory inside src/awesome_package/ called **scripts** in this new directory you will add python scripts for the package. Also after creating them make them executables with the chmod command:
+If you are adding python scripts to the nodes you need to create a new directory inside src/awesome_package/ called **scripts**. Also after creating them, make them executables with the chmod command:
 
 ```cmd
 chmod +x my_new_script.py
