@@ -1,2 +1,2 @@
-# ros_exmaple_numbers
-An example for ROS with number publishers, receivers and nodes
+# ros_example_numbers
+ROS Example scripts for numbers project
