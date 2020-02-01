@@ -71,7 +71,7 @@ rostopic pub -1 </name_of_topic> std_msgs/String "data: '<new message>'" #this w
 rostopic pub -r 5 </name_of_topic> std_msgs/String "data: '<new message>'" #continuosly send 5 new messages to the subscribers of the topic
 ```
 
-### Note on nodes
+## Note on nodes
 
 If you are adding scripts to the nodes you need to create a new directory inside src/awesome_package/ called **scripts** in this new directory you will add python scripts for the package. Also after creating them make them executables with the chmod command:
 
