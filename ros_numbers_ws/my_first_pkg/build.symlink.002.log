@@ -1,0 +1,4 @@
+Symlinking /home/thonny/rostutorial_ws/devel/lib/my_first_pkg/node_cpp
+Linked: (/home/thonny/rostutorial_ws/devel/.private/my_first_pkg/lib/pkgconfig/my_first_pkg.pc, /home/thonny/rostutorial_ws/devel/lib/pkgconfig/my_first_pkg.pc)
+Linked: (/home/thonny/rostutorial_ws/devel/.private/my_first_pkg/share/my_first_pkg/cmake/my_first_pkgConfig.cmake, /home/thonny/rostutorial_ws/devel/share/my_first_pkg/cmake/my_first_pkgConfig.cmake)
+Linked: (/home/thonny/rostutorial_ws/devel/.private/my_first_pkg/share/my_first_pkg/cmake/my_first_pkgConfig-version.cmake, /home/thonny/rostutorial_ws/devel/share/my_first_pkg/cmake/my_first_pkgConfig-version.cmake)
