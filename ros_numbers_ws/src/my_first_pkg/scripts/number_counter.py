@@ -4,7 +4,7 @@ import rospy
 from std_msgs.msg import String
 
 def callback_receive_radio_data(msg):
-    complete_msg = "Number: " + msg + " Counter: "
+    complete_msg = "Number Counter: " + msg
     rospy.loginfo(msg)
 
 if __name__ == '__main__':
